@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+Frontend Dev . Open to work
 
 
 ## 🌐 Socials:
