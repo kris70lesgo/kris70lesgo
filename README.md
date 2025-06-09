@@ -15,10 +15,10 @@ Frontend Dev . Open to work
 
 
 
-![snake gif](https://raw.githubusercontent.com/krish70lesgo/krish70lesgo/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/kris70lesgo/kris70lesgo/output/github-snake-dark.svg)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krish70lesgo/krish70lesgo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krish70lesgo/krish70lesgo/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kris70lesgo/kris70lesgo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kris70lesgo/kris70lesgo/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/krish70lesgo/krish70lesgo/output/github-snake.svg" />
 </picture>
 
