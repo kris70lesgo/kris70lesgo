@@ -15,4 +15,4 @@ Frontend Dev . Open to work
 
 
 
-![snake gif](https://github.com/krish70lesgo/krish70lesgo/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/krish70lesgo/krish70lesgo/output/github-snake-dark.svg)
